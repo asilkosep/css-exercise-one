@@ -46,3 +46,12 @@ h3 {
   margin: 10px 0;
   width: 100%;
 }
+
+/* created new class to change color of last 3 div elements */
+
+.new-element{
+  background-color: blue;
+  height: 100px;
+  margin: 10px 0;
+  width: 100%;
+}
